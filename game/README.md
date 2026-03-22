@@ -8,8 +8,8 @@ el jugador (el cuadrado azul) debera empujar el cuadrado rojo hacia el cuadrado 
 
 # -CONTROLES/CONTROLS-
 
-up - w
-left - a
-down - s
-right - d
+up - w.
+left - a.
+down - s.
+right - d.
 
